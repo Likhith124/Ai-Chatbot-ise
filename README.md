@@ -96,7 +96,7 @@ Response Sent Back to User
 
 ### Step 3: Create Entities
 
-* `@department_names` → "CSE", "Mechanical", etc.
+* `@department_names` → ,"ISE","CSE", "Mechanical", etc.
 * `@course_type` → "B.E.", "M.Tech", etc.
 * System entities like `@sys.date`, `@sys.number` also used
 
